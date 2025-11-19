@@ -1,3 +1,7 @@
 # Filezilla
 
-Ver en "http://localhost:3000"
+Ver en "https://localhost:3001"
+
+Usuario: User
+
+Password: p4ssw0rd
