@@ -1,5 +1,3 @@
-version: "3.3"
-
 services:
 
   filezilla:
@@ -19,4 +17,3 @@ services:
       - 3000:3000
       - 3001:3001
     restart: unless-stopped
-
