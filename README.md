@@ -1,6 +1,3 @@
-# filezilla
-Filezilla - Filezilla - Docker compose
+# Filezilla
 
-Ver en "localhost:3000"
-
-
+Ver en "http://localhost:3000"
