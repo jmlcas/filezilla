@@ -1,6 +1,6 @@
 # Filezilla
 
-Ver en "https://localhost:5800"
+Ver en "http://localhost:5800"
 
 Usuario: admin
 
