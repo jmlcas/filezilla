@@ -14,9 +14,9 @@ services:
       - TZ=Europe/Madrid
       - UMASK=0022
       - LANG=es_ES.UTF-8
- #     - DARK_MODE=1
- #     - WEB_AUTHENTICATION=1  
- #     - WEB_AUTHENTICATION_USERNAME=admin
- #     - WEB_AUTHENTICATION_PASSWORD=p4ssw0rd
+      - DARK_MODE=0  #1
+      - WEB_AUTHENTICATION=0  #1  
+      - WEB_AUTHENTICATION_USERNAME=admin
+      - WEB_AUTHENTICATION_PASSWORD=p4ssw0rd
     restart: unless-stopped
 
